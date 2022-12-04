@@ -19,3 +19,9 @@ Philippines Time:
 Weekends: 6:00 - 21:00 (6:00 AM - 9:00 PM)
 
 Weekdays: 16:00 - 20:00 (4:00 PM - 8:00 PM) 
+
+# Other Stuff
+
+there are many stuff i made, maybe look at the repositories i created, along with the code i just made :) 
+
+if you don't know where they are, *scroll down*
