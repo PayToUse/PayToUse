@@ -14,11 +14,15 @@ Weekends: 18:00 - 9:00 (6:00 PM - 9:00 AM)
 
 Weekdays: 4:00 - 8:00 (4:00 AM - 8:00 AM)
 
+Holidays: 20:00 - 10:00 (8:00 PM - 10:00 AM)
+
 Philippines Time: 
 
 Weekends: 6:00 - 21:00 (6:00 AM - 9:00 PM)
 
 Weekdays: 16:00 - 20:00 (4:00 PM - 8:00 PM) 
+
+Holidays: 8:00 - 22:00 (8:00 AM - 10:00 PM)
 
 # Other Stuff
 
