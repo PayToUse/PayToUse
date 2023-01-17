@@ -31,3 +31,10 @@ there are many stuff i made, maybe look at the repositories i created, along wit
 if you don't know where they are, *scroll down*
 
 or click on the hyperlink to the [repositories](https://github.com/PayToUse?tab=repositories) tab here :) 
+
+# Profile Visits
+
+This counter is not made by me
+
+<img src="https://profile-counter.glitch.me/PayToUse/count.svg" />
+</p> 
