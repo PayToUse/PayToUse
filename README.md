@@ -37,4 +37,13 @@ or click on the hyperlink to the [repositories](https://github.com/PayToUse?tab=
 This counter is not made by me
 
 <img src="https://profile-counter.glitch.me/PayToUse/count.svg" />
-</p> 
+</p>
+
+# Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&langs_count=3&hide_title=true&hide_border=true" />
+</a> 
