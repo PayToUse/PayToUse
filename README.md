@@ -48,3 +48,6 @@ Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&langs_count=10&hide_title=true&hide_border=true" />
 </a> 
+<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+  <img src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
+</a>
