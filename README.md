@@ -51,9 +51,6 @@ Languages (Top 10)
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
   <img align="center" src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PayToUse">
-</a>
 
 # Discord Server
 [click here to join the server.](https://discord.gg/bppaHBZXFB)
