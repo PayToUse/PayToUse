@@ -42,14 +42,17 @@ This counter is not made by me
 # Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&bg_color=37,FF5555,aaaaaa&title_color=ffffff&text_color=ffffff"/>
 </a>
 Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&langs_count=10&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&bg_color=30,FF0000,660000&title_color=ffffff&text_color=ffffff&langs_count=10&hide_title=true&hide_border=true" />
 </a> 
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
   <img align="center" src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PayToUse">
 </a>
 
 # Discord Server
