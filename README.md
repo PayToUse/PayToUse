@@ -42,7 +42,7 @@ This counter is not made by me
 # Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&bg_color=37,FF5555,aaaaaa&title_color=ffffff&text_color=ffffff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&bg_color=37,FF5555,aaaaaa&title_color=ffffff&text_color=ffffff&include_all_commits=true"/>
 </a>
 Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
