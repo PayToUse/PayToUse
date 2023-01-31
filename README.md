@@ -34,7 +34,7 @@ or click on the hyperlink to the [repositories](https://github.com/PayToUse?tab=
 
 # Profile Visits
 
-This counter is not made by me
+500 visits, half a thousand. thanks
 
 <img src="https://profile-counter.glitch.me/PayToUse/count.svg" />
 </p>
