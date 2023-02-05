@@ -26,11 +26,15 @@ Holidays: 8:00 - 22:00 (8:00 AM - 10:00 PM)
 
 # Other Stuff
 
-there are many stuff i made, maybe look at the repositories i created, along with the code i just made :) 
+You can look at the repositories i made with a certain amount of languages. if you don't know where they are, *scroll down to see the pinned ones*
 
-if you don't know where they are, *scroll down*
+To see all of them, click on this hyperlink here to all of my [repositories](https://github.com/PayToUse?tab=repositories) here
 
-or click on the hyperlink to the [repositories](https://github.com/PayToUse?tab=repositories) tab here :) 
+```
+That would be all about my introduction.
+You can see the stuff i made on this profile :)
+© Louie Kurenai 2023
+```
 
 # Profile Visits
 
