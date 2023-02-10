@@ -63,4 +63,4 @@ Discord Server:
 
 YouTube Channel:
 
-[![YouTube](https://img.shields.io/badge/subscribers-2.72k-red?logo=youtube&style=social/)](https://youtube.com/@LouieNotHere1774)
+[![YouTube](https://img.shields.io/badge/subscribers-2.72k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
