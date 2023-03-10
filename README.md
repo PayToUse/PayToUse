@@ -50,7 +50,7 @@ You can see the stuff i made on this profile :)
 </a>
 Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&bg_color=30,FF0000,660000&title_color=ffffff&text_color=ffffff&langs_count=10&hide_title=true&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&bg_color=30,FF0000,660000&title_color=ffffff&text_color=ffffff&langs_count=50&hide_title=true&layout=compact&hide_border=true" />
 </a> 
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
   <img align="center" src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
