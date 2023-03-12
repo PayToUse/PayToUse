@@ -1,14 +1,16 @@
 # Introduction
 
-Hello people! I'm Louie, aka. PayToUse, and i'm a content creator, programmer, music and video editor, and a gamer.
+Hello everyone in GitHub! I would like you all to introduce myself. I'm Louie, aka. PayToUse (LouieNotHere), and i'm an american content creator, programmer, and a music and video editor. 
 
-What game i play is Minecraft, Roblox, osu! (osu!standard and osu!mania), and Geometry Dash. 
+I'm a high school graduate (18), and i currently live in Houston, Texas, United States of America.
 
-That would be all about my introduction, i can be active anytime you need me (at bedtime, not gonna respond to stuff, sorry for that) 
+About my programming, i started doing a job like this on mid november, 2022, and currently, I'm a beginner at scripting on JavaScript, a web designing expert, and I'm learning new lessons about coding on other languages like Python, etc.
+
+So that should be all about my introduction, feel free to ask anything about it :) (**tbh i can't respond to stuff when I'm currently offline, i apologize about that.**)
 
 # Active times
 
-US (**Houston, TX**) Time:
+US (**Houston, TX**, GMT -6) Time:
 
 Weekends: 18:00 - 9:00 (6:00 PM - 9:00 AM)
 
@@ -30,15 +32,9 @@ You can look at the repositories i made with a certain amount of languages. if y
 
 To see all of them, click on this hyperlink here to all of my [repositories](https://github.com/PayToUse?tab=repositories) here
 
-```
-That would be all about my introduction.
-You can see the stuff i made on this profile :)
-© Louie Kurenai 2023
-```
-
 # Profile Visits
 
-500 visits, half a thousand. thanks
+900, near to 1k. thanks
 
 <img src="https://profile-counter.glitch.me/PayToUse/count.svg" />
 </p>
