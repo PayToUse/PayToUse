@@ -52,11 +52,11 @@ Languages (Top 10)
   <img align="center" src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
 </a>
 
-# Social
+# Socials
 Discord Server:
 
 [![Discord](https://img.shields.io/discord/774138960430759958.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bppaHBZXFB)
 
-YouTube Channel:
+YouTube:
 
-[![YouTube](https://img.shields.io/badge/subscribers-2.72k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
+[![YouTube](https://img.shields.io/badge/Subscribe!-2.73k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
