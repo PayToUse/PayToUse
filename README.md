@@ -34,7 +34,7 @@ To see all of them, click on this hyperlink here to all of my [repositories](htt
 
 # Profile Visits
 
-900, near to 1k. thanks
+1k, finally, thank you all for the visits lol
 
 <img src="https://profile-counter.glitch.me/PayToUse/count.svg" />
 </p>
