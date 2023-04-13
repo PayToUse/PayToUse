@@ -8,7 +8,10 @@ I guess that's it for my introduction, feel free to ask any questions :) (**When
 
 # Active times
 
-US (**Houston, TX**, GMT -6) Time:
+<hr>
+<img src="medias/usa_flag.svg">
+
+## Central Time (GMT -6):
 
 Weekends: 18:00 - 9:00 (6:00 PM - 9:00 AM)
 
@@ -16,7 +19,10 @@ Weekdays: 4:00 - 8:00 (4:00 AM - 8:00 AM)
 
 Holidays: 20:00 - 10:00 (8:00 PM - 10:00 AM)
 
-Philippines Time: 
+<hr>
+<img src="medias/phl_flag.svg">
+
+## Philippine Standard Time (GMT +8): 
 
 Weekends: 6:00 - 21:00 (6:00 AM - 9:00 PM)
 
