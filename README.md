@@ -60,3 +60,6 @@ Discord Server:
 YouTube:
 
 [![YouTube](https://img.shields.io/badge/Subscribe!-2.73k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
+
+# Current Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=osudroid-bench)](https://github.com/PayToUse/osudroid-bench)
