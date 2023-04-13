@@ -61,5 +61,10 @@ YouTube:
 
 [![YouTube](https://img.shields.io/badge/Subscribe!-2.73k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
 
-# Current Project
+# Current Ongoing Projects
+
+osudroid!bench
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=osudroid-bench)](https://github.com/PayToUse/osudroid-bench)
+
+Cracked Ruby (my osu!standard skin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=cracked-ruby)](https://github.com/PayToUse/cracked-ruby)
