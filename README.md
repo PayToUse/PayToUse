@@ -11,7 +11,7 @@ I guess that's it for my introduction, feel free to ask any questions :) (**When
 <hr>
 <img src="medias/usa_flag.svg">
 
-## Central Time (GMT -6):
+## Central Time (GMT -5):
 
 Weekends: 18:00 - 9:00 (6:00 PM - 9:00 AM)
 
