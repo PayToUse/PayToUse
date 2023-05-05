@@ -1,7 +1,7 @@
 # Credits
 Flag assets - [Dean "Peppy" Herbert (osu!)](https://osu.ppy.sh)
 
-GitHub Stats & Top Languages used - [Anurag Hazra's GitHub Readme Statistics](https://github.com/anuraghazra/github-readme-stats) 
+GitHub Stats, Top Languages used & Repository Card - [Anurag Hazra's GitHub Readme Statistics](https://github.com/anuraghazra/github-readme-stats) 
 
 Visitor Count - Unknown
 
