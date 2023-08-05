@@ -45,9 +45,7 @@ To see all of them, click on this hyperlink here to all of my [repositories](htt
 
 # Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayToUse&bg_color=37,FF5555,aaaaaa&title_color=ffffff&text_color=ffffff&include_all_commits=true"/>
-</a>
+![PayToUse's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayToUse\&show=reviews,discussions_started,discussions_answered&theme=radical&show_icons=true)
 Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&bg_color=30,FF0000,660000&title_color=ffffff&text_color=ffffff&langs_count=50&hide_title=true&layout=compact&hide_border=true" />
