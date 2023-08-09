@@ -1,0 +1,30 @@
+osu!droid relax pp rework
+after days of taking an unexpected break, it's finally here.
+i've been working on something extremely hard that took me 2 days to figure and code for the rest.
+this pp rework was made by me, which kind of matches with osu! stable or osu!lazer.
+since this is a document about the pp rework, here are the changes to my plays:
+
+Angerfist - Knock Knock: 162pp -> 906pp
+toby fox - Spider Dance: 153pp -> 974pp 
+toby fox - Hopes and Dreams: 159pp -> 677pp
+DM DOKURO - Save (Encore): 223 - > 1170pp
+Cypis - Gdzie jest bialy wegorz?: 234pp -> 966pp
+mocchie - Nyan Nyan Drive: 195pp -> 762pp
+xi - Ascension to Heaven: 145pp -> 581pp
+xi - Freedom Dive: 211pp -> 835pp
+JVKE - golden hour (xAsuna): 213pp -> 833pp
+GALNERYUS - RAISE MY SWORD (Short Ver.): 196pp -> 758pp
+KANA-BOON - SILHOUETTE (TV SIZE): 182pp -> 759pp
+toby fox - Final Goodbye: 136pp -> 1383pp
+Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson): 244pp -> 939pp
+Leah Kate - Life Sux (sped up ver.): 122pp -> 960pp
+Rlcemaster3 - Extreme Training - Jump + Streams: 159pp -> 856pp
+Wayne Sharpe and John Siegler - Yugioh! Theme: 127pp -> 573pp
+JVKE - golden hour (cut ver.) (Plasma): 155pp -> 631pp
+Fellowship - Glory Days: 92pp -> 1048pp
+xi - Freedom Dive (tpz overcute remix): 145pp -> 897pp
+Laur - Sound Chimera: 213pp -> 640pp
+Total PP: 3243pp -> 16968pp
+
+Don't believe me? Why not download the app here: https://github.com/PayToUse/osudroid-rx/releases
+Note: replaces osu!droid debug
