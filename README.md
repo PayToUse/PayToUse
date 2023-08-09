@@ -45,7 +45,7 @@ To see all of them, click on this hyperlink here to all of my [repositories](htt
 
 # Statistics
 
-![PayToUse's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayToUse\&show=reviews,discussions_started,discussions_answered&theme=radical&show_icons=true)
+![PayToUse's GitHub stats](https://github-readme-stats.vercel.app/api?username=PayToUse\&show=reviews,discussions_started,discussions_answered&theme=radical&show_icons=true&include_all_commits=true)
 Languages (Top 10)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&bg_color=30,FF0000,660000&title_color=ffffff&text_color=ffffff&langs_count=50&hide_title=true&layout=compact&hide_border=true" />
@@ -71,5 +71,5 @@ YouTube:
 osudroid!bench
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=osudroid-bench)](https://github.com/PayToUse/osudroid-bench)
 
-Cracked Ruby (my osu!standard skin)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=cracked-ruby)](https://github.com/PayToUse/cracked-ruby)
+osudroid!relax
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PayToUse&repo=osudroid-rx)](https://github.com/PayToUse/osudroid-rx)
