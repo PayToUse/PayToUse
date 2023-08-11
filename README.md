@@ -1,6 +1,6 @@
 # Introduction
 
-Hello to all GitHub users! Please allow me to introduce myself to everyone. I'm Louie, also known as PayToUse (LouieNotHere), a content producer, programmer, a music and video editor, and i'm from the United States.
+Hello to all GitHub users! Please allow me to introduce myself to everyone. I'm Louie, also known as PayToUse (LouieNotHere), a content producer, programmer, a music and video editor, and i'm from the United States / Philippines!
 
 Regarding my programming, I began working in this capacity in the middle of November 2022. At the moment, I am a novice at scripting on JavaScript, an expert at web design, and I am currently learning new lessons about coding in other languages like Python, etc.
 
