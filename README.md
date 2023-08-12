@@ -53,7 +53,7 @@ Languages (Top 10)
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
   <img align="center" src="https://raw.githubusercontent.com/PayToUse/PayToUse/output/github-contribution-grid-snake.svg">
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PayToUse&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 # Socials
 Discord Server:
