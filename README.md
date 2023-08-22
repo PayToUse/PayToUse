@@ -55,15 +55,6 @@ Languages (Top 10)
 </a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PayToUse&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-# Socials
-Discord Server:
-
-[![Discord](https://img.shields.io/discord/774138960430759958.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bppaHBZXFB)
-
-YouTube:
-
-[![YouTube](https://img.shields.io/badge/Subscribe!-2.73k-red?logo=youtube&style=social/)](http://youtube.com/channel/UCEkrftuZFO5a4EJAZSiPhfQ)
-
 # Current Ongoing Projects
 
 osudroid!bench
