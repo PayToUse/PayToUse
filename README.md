@@ -1,7 +1,7 @@
 ## All about me
 <b>Name: Louie Kurenai</b>
 <br>
-<b>Nationality: Filipino / American</b>
+<b>Nationality: Japanese / American</b>
 <br>
 <b>Age: 19</b>
 <br>
