@@ -15,4 +15,6 @@ note: this updates frequently
 ![screenshot](https://media.discordapp.net/attachments/1146305572367503441/1151295243128414208/Screenshot_20230913_071534_ru.nsu.ccfit.zuev.osuplus.rxdebug.jpg)
 ## [tekkito v3 but LouieNotHere](https://drive.google.com/file/d/17HteI41jjo4D8xbmWseckcvh7KnSJKWR/view?usp=drivesdk)
 no screenshots yet
+## [Aristia edit but LouieNotHere](https://drive.google.com/file/d/192sk6XsabC7YwelBdEaIS0tIsE4FBSEr/view?usp=drivesdk)
+no screenshots yet
 ### end of file.
