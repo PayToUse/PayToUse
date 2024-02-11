@@ -16,5 +16,7 @@ note: this updates frequently
 ## [tekkito v3 but LouieNotHere](https://drive.google.com/file/d/17HteI41jjo4D8xbmWseckcvh7KnSJKWR/view?usp=drivesdk)
 no screenshots yet
 ## [Aristia edit but LouieNotHere](https://drive.google.com/file/d/192sk6XsabC7YwelBdEaIS0tIsE4FBSEr/view?usp=drivesdk)
-no screenshots yet
+![screenshot](https://media.discordapp.net/attachments/1146305572367503441/1190295764900003900/Screenshot_20231229_220930_ru.nsu.ccfit.zuev.osuplus.rxdebug.jpg?ex=65d8a750&is=65c63250&hm=625f47e2c5715883f63fad944b819003ecbfab883941a90768b7ecd10e86fb0e&)
+![screenshot](https://media.discordapp.net/attachments/1146305572367503441/1190295765231341659/Screenshot_20231229_220538_ru.nsu.ccfit.zuev.osuplus.rxdebug.jpg?ex=65d8a751&is=65c63251&hm=9a5741a92e0cafdc8d10835abf6eac89fcb65695b90175c4c120fb66f1302574&)
+![screenshot](https://media.discordapp.net/attachments/1146305572367503441/1190295765533339668/Screenshot_20231229_220922_ru.nsu.ccfit.zuev.osuplus.rxdebug.jpg?ex=65d8a751&is=65c63251&hm=4f4226958212818de9d44adbd7461bfeec46c64ffe0e7e7467678cad8e697582&)
 ### end of file.
