@@ -5,6 +5,8 @@ This handbook gives you the ability to learn and know anything about C++
 ## What is C++?
 C++ is a high-level, a general-purpose and a cross-platform programming language used to make high-performance applications for Microsoft Windows. It is also one of the world's most popular programming languages.
 
+![Image related to C++](https://code.visualstudio.com/assets/docs/languages/cpp/msg-intellisense.png )
+
 This programming language is developed by a danish computer scientist Bjarne Stroustrup in 1985, which makes "C" succeeded by this programming language
 
 ## Similarities and Differences
@@ -25,12 +27,28 @@ C++ is used in fields such as system software, game development, embedded system
 
 ## C++ Sample Code
 This is the sample code for you to get started with, you can copy all of this content to your program.
+
+In a new program, beginners must include the `#include <iostream>` in the first line or else it won't work.
 ```
 #include <iostream>
 
 int main() {
   std::cout << "Hello World!";
   
+  return 0;
+}
+```
+
+If you want to experiment with basic math, here's another one:
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+  int x = 5;
+  int y = 6;
+  int sum = x + y;
+  cout << sum;
   return 0;
 }
 ```
@@ -52,3 +70,4 @@ The most popular games that use C++ is Minecraft (Bedrock Edition), made by Notc
 - [C++ Introduction - W3Schools](https://www.w3schools.com/cpp/cpp_intro.asp)
 - [What is C++? | Definition from TechTarget](https://www.techtarget.com/searchdatamanagement/definition/C#:~:text=C%2B%2B%20is%20an%20object%2Doriented,network%20such%20as%20the%20internet.)
 - [C++ Programming Language - GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+- [C++ Basic Math Example - W3Schools](https://www.w3schools.com/cpp/trycpp.asp?filename=demo_howto_add_two_numbers)
