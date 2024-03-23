@@ -1,0 +1,22 @@
+name: "update status"
+on:
+   workflow_dispatch:
+jobs:
+ inits:
+    runs-on: ubuntu-latest    
+    steps:
+      - uses: actions/checkout@v3
+      - name: execute
+        run: |
+         bash main.sh
+         bash main_stats.sh
+        
+      - name: update
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "updated"
+          repository: .
+          file_pattern: ./*.jpg ./*.png ./*.gif README.md
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
