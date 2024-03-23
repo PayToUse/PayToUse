@@ -1,0 +1,22 @@
+name: "The One"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */5 * * *"
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+    if: ${{ github.triggering_actor == github.repository_owner }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: "rerun on fail"
+        env:
+          GITHUB_TOKEN: ${{ secrets.G_TOK }}
+          WORKFLOW_FILE: "autobot.yaml"
+        run: |
+          bash autorun.sh "${GITHUB_TOKEN}" "${WORKFLOW_FILE}" "${{ github.ref }}"
