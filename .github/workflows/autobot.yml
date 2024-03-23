@@ -8,7 +8,6 @@ jobs:
       - uses: actions/checkout@v3
       - name: execute
         run: |
-         bash main.sh
          bash main_stats.sh
         
       - name: update
