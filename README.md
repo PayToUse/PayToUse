@@ -2,6 +2,8 @@
 <p align="center">Best osu!droid FL Player in existence 🔥
 
 <h1 align="center">Statistics</h1>
-<img src="https://profile-counter.glitch.me/PayToUse/count.svg" align="center">
+<p align="center">
+  <img src="https://profile-counter.glitch.me/PayToUse/count.svg">
+</p>
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=PayToUse&theme=aura_dark&show_icons=true)
