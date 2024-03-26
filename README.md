@@ -9,3 +9,5 @@
 </p>
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=PayToUse\&show=reviews,discussions_started,discussions_answered&theme=aura_dark&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayToUse&theme=aura_dark&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
